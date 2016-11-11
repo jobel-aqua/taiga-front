@@ -10,6 +10,7 @@
 - Add rich text custom fields (with a wysiwyg editor like descreption or comments).
 - Add thumbnails and preview for PSD files.
 - Add thumbnails and preview for SVG files.
+- New project creation with importing
 - i18n:
   - Add japanese (ja) translation.
   - Add korean (ko) translation.
